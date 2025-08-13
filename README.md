@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Harshitha D<br>Passionate about building impactful and user-friendly applications. I enjoy working on full-stack development projects, exploring new technologies, and solving real-world problems through code.<br>📍 From Karnataka, India <br>📚 Strengthening my skills in React, Next.js, Node.js, Express.js, MySQL, and MongoDB<br>🤝 Always open to learning new technologies and improving my skills <br>🌱 I’m currently learning  .NET to broaden my development stack<br>💡 Interested in Full-Stack Development,  Problem-Solving<br>📫 Reach out to me at harshithad645@gmail.com<br>
+Hi 👋, I'm Harshitha D<br>Passionate about building impactful and user-friendly applications. I enjoy working on full-stack development projects, exploring new technologies, and solving real-world problems through code.<br> 📍 From Karnataka, India. <br>📚 Strengthening my skills in React, Next.js, Node.js, Express.js, MySQL, and MongoDB.<br>🤝 Always open to learning new technologies and improving my skills. <br>🌱 I’m currently learning  .NET to broaden my development stack.<br>💡 Interested in Full-Stack Development, Problem-Solving, Photography.<br>📫 Reach out to me at harshithad645@gmail.com.<br>
 
 
 ## 🌐 Socials:
