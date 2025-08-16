@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-                                                 I'm **Harshitha D**  
+  I'm **Harshitha D**  
 <br>  
 I am passionate about building impactful and user-friendly applications. I enjoy working on full-stack development projects, exploring new technologies, and solving real-world problems through code.  
 
