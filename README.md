@@ -1,7 +1,7 @@
 # 👩‍💻 About Me
 # 👋 Hi, I'm Harshitha D  
 <br>  
- <h2>I am passionate about building impactful and user-friendly applications. I enjoy working on full-stack development projects, exploring new technologies, and solving real-world problems through code.  </h2>
+ <h3>I am passionate about building impactful and user-friendly applications. I enjoy working on full-stack development projects, exploring new technologies, and solving real-world problems through code.  </h3>
 
 - 📍 From **Karnataka, India**  
 - 📚 Strengthening my skills in **React, Next.js, Node.js, Express.js, MySQL, and MongoDB**  
